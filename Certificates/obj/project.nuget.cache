@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vB6KJcCzTwfYiyNAdkqg5x+YJngjDyamOdVQN7OxS2L08nxHR+hg74ip7IxpOa9DQ2XR2QN07bGqjrqvTn0ELw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marius\\RiderProjects\\Certificates\\Certificates\\Certificates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marius\\.nuget\\packages\\questpdf\\2024.3.10\\questpdf.2024.3.10.nupkg.sha512"
+  ],
+  "logs": []
+}
