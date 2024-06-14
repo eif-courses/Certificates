@@ -41,3 +41,4 @@ C:\Users\Marius\RiderProjects\Certificates\Certificates\obj\Debug\net8.0\refint\
 C:\Users\Marius\RiderProjects\Certificates\Certificates\obj\Debug\net8.0\Certificates.pdb
 C:\Users\Marius\RiderProjects\Certificates\Certificates\obj\Debug\net8.0\Certificates.genruntimeconfig.cache
 C:\Users\Marius\RiderProjects\Certificates\Certificates\obj\Debug\net8.0\ref\Certificates.dll
+C:\Users\Marius\RiderProjects\Certificates\Certificates\obj\Debug\net8.0\Certificates.sourcelink.json
